@@ -1,6 +1,6 @@
 Hi, my name is Joe (WhiskeyJack65).  I'm  a software developer from Alberta Canada.  
 
-I've been a developing software professionaly for over 20 years, most of which has involved some flavor of the .Net platform.  
+I've been a developing software professionally for over 20 years, most of which has involved some flavor of the .Net platform.  
 
 I enjoy keeping current on the latest from Microsoft and learning new programming languages as well.
 
